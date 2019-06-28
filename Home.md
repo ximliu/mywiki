@@ -2,4 +2,4 @@ wiki 已经启用，欢迎大家共同完善 wiki ,大多数问题都可以在�
 
 ---
 
-SSPanel UIM Wiki 项目正式上线！项目地址：https://github.com/SSPanel-UIM/Wiki 。所有 Wiki 都将搬运到新项目中，搬运完成以后此处 Wiki 将会被关闭。
+SSPanel UIM Wiki 项目正式上线！SSPanel UIM 新的 Wiki（建设中）： https://wiki.sspanel.host 项目地址：https://github.com/SSPanel-UIM/Wiki 。所有 Wiki 都将搬运到新项目中，搬运完成以后此处 Wiki 将会被关闭。
